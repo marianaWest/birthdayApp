@@ -8,10 +8,15 @@ A collaboration of the #40-plus group on the Learn w/ Leon & Friends Discord
 ***
 ## Tech  
 Express - A web server to handle requests in server side  
-Bree - A job scheduler  
-body-parser: A library to parse the POST request body  
+Mongoose  
+dotenv  
+MongoDB  
+Body-parser: A library to parse the POST request body  
 EJS: A template engine to render web pages  
-passport: Handles authentication  
+Passport: Handles authentication  
+Transport  
+
+Bree - A job scheduler  
   
 **
 ## Questions  
